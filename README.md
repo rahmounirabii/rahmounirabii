@@ -1,5 +1,11 @@
 # Rabii Rahmouni
 
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Principal+Software+Architect;Distributed+Systems+%7C+Cloud+%7C+AI;Building+Production-Grade+Systems" />
+
+</div>
+
 ### Principal Software Architect — Distributed Systems, Cloud, AI & Real-Time Platforms
 
 > I design and build production-grade systems across telecom, cloud infrastructure, AI platforms, and real-time distributed environments.
