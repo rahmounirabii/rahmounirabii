@@ -1,74 +1,77 @@
 # Rabii Rahmouni
 
-### Principal Software Architect — AI, Distributed Systems & Real-Time Platforms
+### Principal Software Architect — Distributed Systems, AI & Real-Time Platforms
 
-> I design and build production-grade systems at the intersection of AI, real-time infrastructure, and distributed architectures.
-
----
-
-## ⚡ What I Do
-
-- Architect **AI-powered search systems** (vector DB, multimodal retrieval, LLM orchestration)
-- Build **real-time distributed platforms** (WebSocket, streaming, low-latency pipelines)
-- Engineer **cross-platform systems** (C++/Qt desktop agents ↔ cloud backends ↔ web apps)
-- Deliver **production systems under constraints** (telecom, NDA clients, multi-tenant infra)
+> I design and build production-grade systems across telecom, AI platforms, real-time infrastructure, and enterprise applications.
 
 ---
 
-## 🧠 Selected Systems
+## ⚡ What I Build
+
+- **Distributed systems** — multi-tenant platforms, APIs, orchestration engines
+- **Real-time systems** — WebSocket pipelines, collaboration, streaming, voice
+- **Enterprise platforms** — telecom systems, workflows, secure state machines
+- **AI-powered systems** — search, vector databases, LLM orchestration
+- **Cross-platform solutions** — desktop agents, mobile apps, and web platforms
+
+---
+
+## 🧠 Selected Production Systems
+
+### 🌐 FTTH Telecom Interoperability Platform
+> National-scale B2B platform for fiber operators (OI ↔ INWI / IAM / Orange)
+
+- Multi-tenant architecture with strict data isolation
+- VULA API (full subscription lifecycle orchestration)
+- OAuth2 (REST) + SOAP (WSSE) integrations with real operators
+- Workflow engine (8-step lifecycle with conditional transitions)
+- Geospatial eligibility engine (Haversine + Shapefile processing)
+
+**Stack:** Laravel · PHP · Next.js · TypeScript · OAuth2 · Redis · Docker  
+
+---
 
 ### 🧩 AI Digital Asset Platform
-> Desktop agent + AI search + voice interaction
+> Desktop agent + AI search + real-time + voice interaction
 
 - C++/Qt desktop agent with real-time file indexing
-- pgvector (HNSW / IVFFlat) multi-modal search
-- FastAPI + LangGraph orchestration
-- Voice pipeline (WebRTC + STT + TTS)
+- Multi-modal search (pgvector, HNSW, IVFFlat)
+- FastAPI backend with LangGraph orchestration
+- Voice system (WebRTC + STT + TTS)
 
-**Stack:** C++, Python, FastAPI, PostgreSQL, pgvector, TypeScript, WebSocket, Docker
-
----
-
-### 🌐 FTTH Telecom Platform (National Scale)
-> Multi-tenant system for fiber operators
-
-- VULA API (full lifecycle orchestration)
-- OAuth2 + SOAP integrations (real-world operators)
-- Workflow engine (8-step lifecycle)
-- Geospatial eligibility engine (Haversine + Shapefiles)
-
-**Stack:** Laravel, PHP, Next.js, OAuth2, Redis, Docker
+**Stack:** C++ · Python · FastAPI · PostgreSQL · pgvector · TypeScript · WebSocket · Docker  
 
 ---
 
 ### 🎥 Real-Time WebGL Collaboration Engine
 > High-performance rendering + WASM compute
 
-- WebGL2 rendering pipeline (thousands of elements)
+- WebGL2 rendering pipeline (thousands of concurrent elements)
 - Rust/WASM layout engine (60fps under load)
-- Real-time sync (WebSocket + state reconciliation)
+- Real-time sync with state reconciliation
 
-**Stack:** WebGL2, Rust, WASM, Node.js, AWS
+**Stack:** WebGL2 · Rust · WASM · Node.js · TypeScript · AWS  
 
 ---
 
-### 🏛 Certification System (Secure Workflows)
-> Stateful system with strict integrity rules
+### 🏛 Certification Management Platform
+> Secure, stateful system with strict workflow and integrity guarantees
 
-- Exam state machine (PostgreSQL SECURITY DEFINER)
-- Row-Level Security (30+ tables)
-- Automated PDF certification pipeline
+- PostgreSQL state machine (SECURITY DEFINER)
+- Row-Level Security across 30+ tables
+- Automated PDF certificate issuance pipeline
+- Bilingual platform (EN/AR, RTL support)
 
-**Stack:** React, TypeScript, PostgreSQL, Supabase, Deno
+**Stack:** React · TypeScript · PostgreSQL · Supabase · Deno  
 
 ---
 
 ## 🏗 Core Expertise
 
-- AI & Search Infrastructure
-- Distributed Systems Architecture
-- Real-Time Systems & Low-Latency Design
-- Cross-Platform Engineering (Desktop ↔ Web ↔ Mobile)
+- Distributed Systems Architecture  
+- Real-Time Systems & Low-Latency Design  
+- AI & Search Infrastructure  
+- Cross-Platform Engineering  
 - Production Systems (Scalability, Reliability, Security)
 
 ---
@@ -94,10 +97,10 @@ pgvector · Vector Retrieval · Multimodal Search · LLM Orchestration
 
 ## 🎯 Current Focus
 
-- AI-native search systems
-- Desktop ↔ cloud synchronization architectures
-- Real-time voice + agent workflows
-- High-performance pipelines (GPU / WASM / streaming)
+- AI-native search systems  
+- Real-time distributed architectures  
+- Desktop ↔ cloud synchronization pipelines  
+- Voice and agent-based systems  
 
 ---
 
@@ -105,12 +108,12 @@ pgvector · Vector Retrieval · Multimodal Search · LLM Orchestration
 
 - 🇲🇦 Casablanca, Morocco  
 - 18+ years building production systems  
-- Worked across telecom, fintech, real estate, AI  
+- Telecom · AI · Fintech · Real Estate  
 
 ---
 
 ## 🤝 Contact
 
 - GitHub: https://github.com/rahmounirabii  
-- LinkedIn: (add this)  
-- Email: (add this)
+- LinkedIn: https://www.linkedin.com/in/rabii-rahmouni-889a96352/  
+- Email: rahmounirabii.me@gmail.com  
