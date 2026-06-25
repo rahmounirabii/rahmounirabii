@@ -33,9 +33,9 @@ Cloud and full-stack developer with 12+ years of hands-on experience, now focuse
 
 ## Selected Work
 
-### AI-Powered Search &amp; Conversational Platform
-Agentic search with LLM orchestration (LangGraph) and retrieval-augmented generation over a PostgreSQL / pgvector store, plus a conversational layer on Amazon Lex and Connect routing into a Bedrock backend behind response guardrails.
-**Stack:** Python · FastAPI · AWS (Lambda, S3, Connect, Lex) · Bedrock · pgvector · TypeScript
+### Reverie — Intelligent Creative Workspace ([reverie.xyz](https://www.reverie.xyz/))
+Agentic search and a natural-language AI assistant over a multimodal creative-asset store: LLM orchestration (LangGraph), retrieval-augmented generation on PostgreSQL / pgvector, and a Lex-powered language interface into a Bedrock backend behind guardrails.
+**Stack:** Python · FastAPI · AWS (Lambda, S3, Lex) · Bedrock · pgvector · TypeScript
 
 ### FTTH Telecom Interoperability Platform
 National-scale B2B order orchestration between the fiber operator and INWI / IAM / Orange, with an event-driven callback engine over REST (OAuth 2.0) and SOAP WSSE, ServiceNow ITSM ticket sync, and Redis-backed async processing.
