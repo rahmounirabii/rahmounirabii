@@ -1,139 +1,77 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=32&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Principal+Software+Architect;Distributed+Systems+%7C+Cloud+%7C+AI+%7C+Real-Time;Building+Production-Grade+Systems" />
+# Rabii Rahmouni
+
+**Senior Cloud &amp; Full-Stack Developer**
+
+AWS Cloud-Native · Conversational AI · GenAI / Agentic · Event-Driven Systems
+
+![Location](https://img.shields.io/badge/Casablanca-Morocco-0A66C2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-AWS%20%7C%20GenAI%20%7C%20Full--Stack-0A66C2?style=flat-square)
+[![Email](https://img.shields.io/badge/Email-rahmounirabii.me%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmounirabii.me@gmail.com)
 
 </div>
 
 ---
 
-# Rabii Rahmouni
+## About
 
-### Principal Software Architect — Distributed Systems, Cloud, AI, Data Engineering & Real-Time Platforms
-
-> I design and build production-grade systems across telecom, cloud infrastructure, AI platforms, data pipelines, and real-time distributed environments.
+Cloud and full-stack developer with 12+ years of hands-on experience, now focused on AWS cloud-native systems, conversational AI, and GenAI / agentic workflows. I design scalable, event-driven backends and deliver production-grade integrations end to end — from architecture through deployment — and enjoy working inside existing codebases and teams.
 
 ---
 
-## 🧠 About
+## Core Expertise
 
-Principal Software Architect with 18+ years building production systems across telecom, fintech, real estate, and AI platforms.
-
-I specialize in designing **scalable distributed architectures**, **data-intensive systems**, and **AI-powered pipelines**, delivering high-performance solutions under real-world constraints.
-
----
-
-## ⚡ What I Build
-
-- **Distributed systems** — multi-tenant platforms, APIs, orchestration engines  
-- **Cloud-native systems** — scalable infrastructure, storage, event-driven architectures  
-- **Data engineering systems** — ingestion pipelines, transformation workflows, vector and analytical storage  
-- **Real-time systems** — low-latency streaming, WebSocket pipelines, interactive platforms  
-- **Enterprise platforms** — telecom systems, workflows, secure state machines  
-- **AI-powered systems** — search, vector databases, LLM orchestration  
-- **Cross-platform systems** — desktop agents, mobile apps, web platforms  
+| Area | Stack |
+|------|-------|
+| **Conversational &amp; Agentic AI** | Amazon Connect · Amazon Lex · Bedrock AgentCore · RAG · prompt engineering · guardrails |
+| **AWS Cloud-Native &amp; Serverless** | Lambda · API Gateway · EventBridge · Step Functions · DynamoDB · S3 · Athena · IAM · CloudWatch |
+| **IaC &amp; DevOps** | AWS CDK (TypeScript) · GitHub Actions · Docker · Amazon ECR · ECS Fargate · CI/CD |
+| **Full-Stack &amp; Integrations** | Node.js · TypeScript · Python · REST API design · OAuth 2.0 · ServiceNow |
 
 ---
 
-## 🧠 Selected Production Systems
+## Selected Work
 
-### 🌐 FTTH Telecom Interoperability Platform
-> National-scale B2B platform for fiber operators (OI ↔ INWI / IAM / Orange)
+### AI-Powered Search &amp; Conversational Platform
+Agentic search with LLM orchestration (LangGraph) and retrieval-augmented generation over a PostgreSQL / pgvector store, plus a conversational layer on Amazon Lex and Connect routing into a Bedrock backend behind response guardrails.
+**Stack:** Python · FastAPI · AWS (Lambda, S3, Connect, Lex) · Bedrock · pgvector · TypeScript
 
-- Multi-tenant, cloud-ready architecture with strict data isolation  
-- VULA API (full lifecycle orchestration)  
-- OAuth2 (REST) + SOAP (WSSE) integrations  
-- Workflow engine (8-step lifecycle with conditional transitions)  
-- Geospatial eligibility engine (Haversine + Shapefile processing)  
+### FTTH Telecom Interoperability Platform
+National-scale B2B order orchestration between the fiber operator and INWI / IAM / Orange, with an event-driven callback engine over REST (OAuth 2.0) and SOAP WSSE, ServiceNow ITSM ticket sync, and Redis-backed async processing.
+**Stack:** Next.js · TypeScript · OAuth2 · ServiceNow · Redis · Laravel · Docker · Nginx
 
-**Stack:** Laravel · PHP · Next.js · TypeScript · OAuth2 · Redis · Docker  
+### Cloud-Native Real Estate Platform
+Serverless platform on AWS (Lambda, S3, CloudFront) with CI/CD pipelines, containerized environments, and row-level security across user roles.
+**Stack:** AWS · TypeScript · React · Supabase · Docker · CI/CD
 
----
-
-### 🧩 AI Digital Asset Platform
-> Desktop agent + AI search + real-time distributed system
-
-- C++/Qt desktop agent with real-time file indexing  
-- Multi-modal search (pgvector, HNSW, IVFFlat)  
-- Data ingestion and embedding pipelines for large-scale asset processing  
-- FastAPI backend with LangGraph orchestration  
-- Cloud-integrated services with scalable storage and synchronization  
-
-**Stack:** C++ · Python · FastAPI · PostgreSQL · pgvector · TypeScript · WebSocket · Docker  
+### Certification Management Platform
+Event-driven serverless workflows (Deno / TypeScript) on a PostgreSQL state machine, with Row-Level Security across 30+ tables and automated certificate issuance.
+**Stack:** TypeScript · Deno · Supabase · PostgreSQL
 
 ---
 
-### 🎥 Real-Time WebGL Collaboration Engine
-> High-performance rendering and distributed synchronization
+## Tech Stack
 
-- WebGL2 rendering pipeline (thousands of concurrent elements)  
-- Rust/WASM layout engine (60fps under load)  
-- Real-time synchronization across distributed clients  
+**Languages**
+TypeScript · Python · Node.js · SQL · PHP · C++
 
-**Stack:** WebGL2 · Rust · WASM · Node.js · TypeScript · AWS  
+**AWS &amp; Cloud**
+Lambda · API Gateway · EventBridge · Step Functions · DynamoDB · S3 · Athena · IAM · CloudWatch · CDK
 
----
+**AI &amp; Data**
+Amazon Connect · Amazon Lex · Bedrock AgentCore · RAG · LangGraph · pgvector · PostgreSQL
 
-### 🏛 Certification Management Platform
-> Secure, stateful system with strict workflow integrity
+**DevOps &amp; Infra**
+GitHub Actions · Docker · Amazon ECR · ECS Fargate · CI/CD · Redis · Nginx
 
-- PostgreSQL state machine (SECURITY DEFINER)  
-- Row-Level Security across 30+ tables  
-- Automated certificate generation and workflow enforcement  
-- Bilingual platform (EN/AR, RTL support)  
-
-**Stack:** React · TypeScript · PostgreSQL · Supabase · Deno  
+**Frameworks**
+FastAPI · Next.js · React · Laravel · Supabase
 
 ---
 
-## 🏗 Core Expertise
+## Contact
 
-- Distributed Systems Architecture  
-- Cloud & Infrastructure Engineering  
-- Data Engineering & Data Pipelines  
-- Real-Time Systems & Low-Latency Design  
-- AI & Search Infrastructure  
-
----
-
-## ⚙️ Tech Stack
-
-**Languages**  
-C++ · Python · TypeScript · PHP · Java · Rust · Objective-C  
-
-**Backend**  
-FastAPI · Laravel · Spring Boot · Node.js · PostgreSQL · Supabase  
-
-**Frontend**  
-React · Next.js · Angular · Ionic · React Native  
-
-**Cloud / Infrastructure**  
-AWS · Docker · Redis · WebSocket · CI/CD · Terraform · Ansible  
-
-**Data / AI**  
-PostgreSQL · pgvector · Data Pipelines · Vector Retrieval · Multimodal Search · LLM Orchestration  
-
----
-
-## 🎯 Current Focus
-
-- AI-native search systems  
-- Data-intensive distributed architectures  
-- Infrastructure automation (Terraform / Ansible)  
-- Desktop ↔ cloud synchronization pipelines  
-- Real-time and event-driven systems  
-
----
-
-## 📍 About
-
-- 🇲🇦 Casablanca, Morocco  
-- 18+ years building production systems  
-- Telecom · AI · Fintech · Real Estate  
-
----
-
-## 🤝 Contact
-
-- GitHub: https://github.com/rahmounirabii  
-- LinkedIn: https://www.linkedin.com/in/rabii-rahmouni-889a96352/  
-- Email: rahmounirabii.me@gmail.com  
+- **Email:** rahmounirabii.me@gmail.com
+- **GitHub:** [github.com/rahmounirabii](https://github.com/rahmounirabii)
+- **Location:** Casablanca, Morocco (remote-friendly)
