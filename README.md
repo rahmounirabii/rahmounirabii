@@ -45,7 +45,7 @@ National-scale B2B order orchestration between the fiber operator and INWI / IAM
 Serverless platform on AWS (Lambda, S3, CloudFront) with CI/CD pipelines, containerized environments, and row-level security across user roles.
 **Stack:** AWS · TypeScript · React · Supabase · Docker · CI/CD
 
-### Certification Management Platform
+### Certification Management Platform ([portal.bda-global.org](https://portal.bda-global.org/login))
 Event-driven serverless workflows (Deno / TypeScript) on a PostgreSQL state machine, with Row-Level Security across 30+ tables and automated certificate issuance.
 **Stack:** TypeScript · Deno · Supabase · PostgreSQL
 
