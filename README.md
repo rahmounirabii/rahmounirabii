@@ -39,22 +39,22 @@ end to end.
 
 ## Selected Work
 
-### SecureVault — SwiftUI Finance Demo ([repo](https://github.com/rahmounirabii/SecureVault))
-A modern iOS sample showing how I build: **SwiftUI + Observation**, **MVVM** with
-protocol-based dependency injection, **Face ID + Keychain**, `async/await`, and
-**Swift Testing** — no legacy boilerplate.
-**Stack:** Swift 6 · SwiftUI · MVVM · Keychain · Swift Testing
+### Freebox Files — Official Free iOS App ([App Store](https://apps.apple.com/fr/app/freebox-files/id1541156110)) · ⭐ 4.6 / 5 200+ ratings
+Consumer iOS app for Free (French national ISP): browse files on the Freebox
+drive, stream photos/videos/music, auto-backup, downloads (URL / torrent /
+magnet), and secure sharing. Built at RC2K (Free Telecom consulting).
+**Stack:** Swift · Objective-C · UIKit · AVFoundation · URLSession · networking
 
 ### Ksyndic — Published iOS App ([App Store](https://apps.apple.com/us/app/ksyndic/id6758148613))
 Condominium-management app shipped to the App Store: real-time complaints,
 documents, announcements, visitor access, and community voting.
 **Stack:** iOS · App Store · Morocco
 
-### Field / GIS Mobile App — Telecom (enterprise, internal)
-Native iOS field app for fiber technicians: FTTH asset mapping and guided
-navigation (MapKit, Core Location), offline-first sync, and integration with a
-GIS (QGIS) data source. Internal enterprise distribution.
-**Stack:** Swift · Objective-C · MapKit · Core Location · SQLite · REST
+### SecureVault — SwiftUI Finance Demo ([repo](https://github.com/rahmounirabii/SecureVault))
+A modern iOS sample showing how I build: **SwiftUI + Observation**, **MVVM** with
+protocol-based dependency injection, **Face ID + Keychain**, `async/await`, and
+**Swift Testing** — no legacy boilerplate.
+**Stack:** Swift 6 · SwiftUI · MVVM · Keychain · Swift Testing
 
 ### Reverie — Intelligent Creative Workspace ([reverie.xyz](https://www.reverie.xyz/))
 Real-time cross-platform client and cloud backend: WebSocket sync, offline-first
