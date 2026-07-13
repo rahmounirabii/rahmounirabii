@@ -4,7 +4,7 @@
 
 **Senior Mobile Engineer**
 
-iOS (Swift / SwiftUI) · Android (Kotlin) · Flutter · Full-Stack · Architecture
+iOS · Android · Cross-platform
 
 ![Location](https://img.shields.io/badge/Casablanca-Morocco-0A66C2?style=flat-square)
 ![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20iOS%20%7C%20Android-0A66C2?style=flat-square)
