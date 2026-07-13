@@ -2,12 +2,12 @@
 
 # Rabii Rahmouni
 
-**Senior Cloud &amp; Full-Stack Developer**
+**Senior iOS &amp; Mobile Engineer**
 
-AWS Cloud-Native · Conversational AI · GenAI / Agentic · Event-Driven Systems
+iOS (Swift / SwiftUI) · Android (Kotlin) · Flutter · Full-Stack · Architecture
 
 ![Location](https://img.shields.io/badge/Casablanca-Morocco-0A66C2?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-AWS%20%7C%20GenAI%20%7C%20Full--Stack-0A66C2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-iOS%20%7C%20Mobile%20%7C%20Full--Stack-0A66C2?style=flat-square)
 [![Email](https://img.shields.io/badge/Email-rahmounirabii.me%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmounirabii.me@gmail.com)
 
 </div>
@@ -16,7 +16,11 @@ AWS Cloud-Native · Conversational AI · GenAI / Agentic · Event-Driven Systems
 
 ## About
 
-Cloud and full-stack developer with 12+ years of hands-on experience, now focused on AWS cloud-native systems, conversational AI, and GenAI / agentic workflows. I design scalable, event-driven backends and deliver production-grade integrations end to end — from architecture through deployment — and enjoy working inside existing codebases and teams.
+Senior engineer with 14+ years of experience, focused on **native mobile** —
+iOS (Swift / SwiftUI, from the Objective-C era) and Android (Kotlin) — backed by
+a solid full-stack and cloud foundation. I care about clean architecture
+(MVVM, Clean, DDD / hexagonal), testing, security, and shipping polished apps
+end to end.
 
 ---
 
@@ -24,49 +28,50 @@ Cloud and full-stack developer with 12+ years of hands-on experience, now focuse
 
 | Area | Stack |
 |------|-------|
-| **Conversational &amp; Agentic AI** | Amazon Connect · Amazon Lex · Bedrock AgentCore · RAG · prompt engineering · guardrails |
-| **AWS Cloud-Native &amp; Serverless** | Lambda · API Gateway · EventBridge · Step Functions · DynamoDB · S3 · Athena · IAM · CloudWatch |
-| **IaC &amp; DevOps** | AWS CDK (TypeScript) · GitHub Actions · Docker · Amazon ECR · ECS Fargate · CI/CD |
-| **Full-Stack &amp; Integrations** | Node.js · TypeScript · Python · REST API design · OAuth 2.0 · ServiceNow |
+| **iOS** | Swift 6 · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Swift Concurrency |
+| **Android &amp; Cross-platform** | Kotlin · Java · Jetpack Compose · Coroutines · Flutter / Dart |
+| **Architecture &amp; Quality** | MVVM · Clean · TCA · DDD · Hexagonal · XCTest · Swift Testing · Fastlane · CI/CD |
+| **Security** | Face ID / Touch ID · Keychain · SSL / certificate pinning · OAuth 2.0 / OIDC |
+| **Backend &amp; Cloud** | Node.js · TypeScript · Python · REST API · PostgreSQL · AWS · Docker |
 
 ---
 
 ## Selected Work
 
+### SecureVault — SwiftUI Finance Demo ([repo](https://github.com/rahmounirabii/SecureVault))
+A modern iOS sample showing how I build: **SwiftUI + Observation**, **MVVM** with
+protocol-based dependency injection, **Face ID + Keychain**, `async/await`, and
+**Swift Testing** — no legacy boilerplate.
+**Stack:** Swift 6 · SwiftUI · MVVM · Keychain · Swift Testing
+
+### Ksyndic — Published iOS App ([App Store](https://apps.apple.com/us/app/ksyndic/id6758148613))
+Condominium-management app shipped to the App Store: real-time complaints,
+documents, announcements, visitor access, and community voting.
+**Stack:** iOS · App Store · Morocco
+
+### Field / GIS Mobile App — Telecom (enterprise, internal)
+Native iOS field app for fiber technicians: FTTH asset mapping and guided
+navigation (MapKit, Core Location), offline-first sync, and integration with a
+GIS (QGIS) data source. Internal enterprise distribution.
+**Stack:** Swift · Objective-C · MapKit · Core Location · SQLite · REST
+
 ### Reverie — Intelligent Creative Workspace ([reverie.xyz](https://www.reverie.xyz/))
-Agentic search and a natural-language AI assistant over a multimodal creative-asset store: LLM orchestration (LangGraph), retrieval-augmented generation on PostgreSQL / pgvector, and a Lex-powered language interface into a Bedrock backend behind guardrails.
-**Stack:** Python · FastAPI · AWS (Lambda, S3, Lex) · Bedrock · pgvector · TypeScript
-
-### FTTH Telecom Interoperability Platform
-National-scale B2B order orchestration between the fiber operator and INWI / IAM / Orange, with an event-driven callback engine over REST (OAuth 2.0) and SOAP WSSE, ServiceNow ITSM ticket sync, and Redis-backed async processing.
-**Stack:** Next.js · TypeScript · OAuth2 · ServiceNow · Redis · Laravel · Docker · Nginx
-
-### Cloud-Native Real Estate Platform
-Serverless platform on AWS (Lambda, S3, CloudFront) with CI/CD pipelines, containerized environments, and row-level security across user roles.
-**Stack:** AWS · TypeScript · React · Supabase · Docker · CI/CD
-
-### Certification Management Platform ([portal.bda-global.org](https://portal.bda-global.org/login))
-Event-driven serverless workflows (Deno / TypeScript) on a PostgreSQL state machine, with Row-Level Security across 30+ tables and automated certificate issuance.
-**Stack:** TypeScript · Deno · Supabase · PostgreSQL
+Real-time cross-platform client and cloud backend: WebSocket sync, offline-first
+pipelines, and an AI assistant (RAG over pgvector) — the full-stack side of my work.
+**Stack:** Swift · Python · FastAPI · AWS · WebSocket · TypeScript
 
 ---
 
 ## Tech Stack
 
-**Languages**
-TypeScript · Python · Node.js · SQL · PHP · C++
+**Mobile**
+Swift · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Kotlin · Jetpack Compose · Flutter
 
-**AWS &amp; Cloud**
-Lambda · API Gateway · EventBridge · Step Functions · DynamoDB · S3 · Athena · IAM · CloudWatch · CDK
+**Architecture &amp; Testing**
+MVVM · Clean · TCA · DDD · Hexagonal · CQRS · XCTest · Swift Testing · Fastlane · GitHub Actions
 
-**AI &amp; Data**
-Amazon Connect · Amazon Lex · Bedrock AgentCore · RAG · LangGraph · pgvector · PostgreSQL
-
-**DevOps &amp; Infra**
-GitHub Actions · Docker · Amazon ECR · ECS Fargate · CI/CD · Redis · Nginx
-
-**Frameworks**
-FastAPI · Next.js · React · Laravel · Supabase
+**Backend &amp; Cloud**
+Node.js · TypeScript · Python · REST API · OAuth 2.0 · PostgreSQL · AWS · Docker
 
 ---
 
