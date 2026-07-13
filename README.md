@@ -2,12 +2,12 @@
 
 # Rabii Rahmouni
 
-**Senior iOS &amp; Mobile Engineer**
+**Senior Mobile Engineer**
 
 iOS (Swift / SwiftUI) · Android (Kotlin) · Flutter · Full-Stack · Architecture
 
 ![Location](https://img.shields.io/badge/Casablanca-Morocco-0A66C2?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-iOS%20%7C%20Mobile%20%7C%20Full--Stack-0A66C2?style=flat-square)
+![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20iOS%20%7C%20Android-0A66C2?style=flat-square)
 [![Email](https://img.shields.io/badge/Email-rahmounirabii.me%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmounirabii.me@gmail.com)
 
 </div>
