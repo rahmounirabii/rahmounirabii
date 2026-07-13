@@ -31,8 +31,9 @@ end to end.
 | **iOS** | Swift 6 · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Swift Concurrency |
 | **Android &amp; Cross-platform** | Kotlin · Java · Jetpack Compose · Coroutines · Flutter / Dart |
 | **Architecture &amp; Quality** | MVVM · Clean · TCA · DDD · Hexagonal · XCTest · Swift Testing · Fastlane · CI/CD |
-| **Security** | Face ID / Touch ID · Keychain · SSL / certificate pinning · OAuth 2.0 / OIDC |
-| **Backend &amp; Cloud** | Node.js · TypeScript · Python · REST API · PostgreSQL · AWS · Docker |
+| **Application Security** | Face ID / Touch ID · Keychain · SSL / certificate pinning · OAuth 2.0 / OIDC · encryption |
+| **Cloud, Backend &amp; DevOps** | AWS · Azure · GCP · Docker · CI/CD · Node.js · TypeScript · Python · REST API · PostgreSQL |
+| **Networking &amp; Telecom** | Fiber / FTTH networks · REST / SOAP integration · WebSocket · operator systems |
 
 ---
 
@@ -70,8 +71,11 @@ Swift · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Kotlin · Jetp
 **Architecture &amp; Testing**
 MVVM · Clean · TCA · DDD · Hexagonal · CQRS · XCTest · Swift Testing · Fastlane · GitHub Actions
 
-**Backend &amp; Cloud**
-Node.js · TypeScript · Python · REST API · OAuth 2.0 · PostgreSQL · AWS · Docker
+**Cloud &amp; DevOps**
+AWS · Azure · GCP · Docker · CI/CD · Node.js · TypeScript · Python · REST API · OAuth 2.0 · PostgreSQL
+
+**Networking &amp; Telecom**
+Fiber / FTTH networks · REST / SOAP integration · WebSocket · operator systems
 
 ---
 
