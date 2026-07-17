@@ -45,6 +45,16 @@ drive, stream photos/videos/music, auto-backup, downloads (URL / torrent /
 magnet), and secure sharing. Built at RC2K (Free Telecom consulting).
 **Stack:** Swift · Objective-C · UIKit · AVFoundation · URLSession · networking
 
+### Delivery Platform — Flutter customer &amp; courier apps ([repo](https://github.com/rahmounirabii/delivery-platform))
+Glovo-style delivery platform: two **Flutter** apps (customer + courier) backed by
+a set of services and an API — state management, real-time order flow, multi-app codebase.
+**Stack:** Flutter · Dart · backend &amp; services
+
+### Azure Chat — Social audio rooms &amp; mini-games ([repo](https://github.com/rahmounirabii/azure-chat))
+**Flutter** app (iOS + Android) for real-time social audio rooms with mini-games:
+reactive UI, state management, and real-time audio SDK integration.
+**Stack:** Flutter · Dart · real-time audio SDK · Android · iOS
+
 ### Ksyndic — Published iOS App ([App Store](https://apps.apple.com/us/app/ksyndic/id6758148613))
 Condominium-management app shipped to the App Store: real-time complaints,
 documents, announcements, visitor access, and community voting.
