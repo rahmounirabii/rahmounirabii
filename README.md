@@ -45,6 +45,13 @@ drive, stream photos/videos/music, auto-backup, downloads (URL / torrent /
 magnet), and secure sharing. Built at RC2K (Free Telecom consulting).
 **Stack:** Swift · Objective-C · UIKit · AVFoundation · URLSession · networking
 
+### FieldFlows — FTTH field operations app *(internal — enterprise distribution, no public link)*
+**Flutter** app (iOS + Android) for fiber field operations: work orders, tickets,
+taskflow, intervention debriefs, equipment scanning, mapping &amp; geolocation.
+**Offline-first** (local Isar database + sync queue replayed on reconnect), photo
+capture, secure storage, and observability (Sentry, Dio/Riverpod logging).
+**Stack:** Flutter · Dart · Riverpod · Isar · Dio · go_router · Sentry
+
 ### Delivery Platform — Flutter customer &amp; courier apps ([repo](https://github.com/rahmounirabii/delivery-platform))
 Glovo-style delivery platform: two **Flutter** apps (customer + courier) backed by
 a set of services and an API — state management, real-time order flow, multi-app codebase.
