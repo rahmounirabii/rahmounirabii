@@ -66,11 +66,6 @@ protocol-based dependency injection, **Face ID + Keychain**, `async/await`, and
 **Swift Testing** — no legacy boilerplate.
 **Stack:** Swift 6 · SwiftUI · MVVM · Keychain · Swift Testing
 
-### Reverie — Intelligent Creative Workspace ([reverie.xyz](https://www.reverie.xyz/))
-Real-time cross-platform client and cloud backend: WebSocket sync, offline-first
-pipelines, and an AI assistant (RAG over pgvector) — the full-stack side of my work.
-**Stack:** Swift · Python · FastAPI · AWS · WebSocket · TypeScript
-
 ---
 
 ## Tech Stack
