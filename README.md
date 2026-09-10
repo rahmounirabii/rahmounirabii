@@ -1,98 +1,37 @@
-<div align="center">
-
 # Rabii Rahmouni
 
-**Senior Mobile Engineer**
+**Software Architect & Tech Lead**
 
-iOS · Android · Cross-platform
+18 years designing, building and running mission-critical platforms, from telecom OSS/BSS to AI agents. Freelance, remote from Casablanca, Morocco.
 
-![Location](https://img.shields.io/badge/Casablanca-Morocco-0A66C2?style=flat-square)
-![Focus](https://img.shields.io/badge/Focus-Mobile%20%7C%20iOS%20%7C%20Android-0A66C2?style=flat-square)
-[![Email](https://img.shields.io/badge/Email-rahmounirabii.me%40gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:rahmounirabii.me@gmail.com)
+## What I do
 
-</div>
+- **Back-end platforms that have to hold.** APIs and integrations between heterogeneous systems (REST, SOAP, OAuth 2.0), asynchronous workflows, state machines, multi-tenant architectures.
+- **Data first.** PostgreSQL at the core: relational, spatial (PostGIS) and vector (pgvector) modeling, with business rules and integrity enforced by the database itself (RLS, triggers, functions).
+- **Applied AI in production.** Agentic multimodal agent orchestrated with LangGraph, self-hosted open-weight models (Qwen, Kimi, SigLIP 2, BGE-M3) on an H100 GPU inference instance, ETL pipelines from ingestion to vector index, observability console to debug the agent's reasoning.
+- **Cloud and DevOps.** AWS (CloudFormation, S3, CloudFront, Lambda), DigitalOcean, Terraform, Docker, CI/CD with GitHub Actions and GitLab CI, self-hosted Supabase stacks in production.
+- **Daily stack.** Java / Spring, PHP / Laravel, Python, TypeScript, Kotlin, Angular, React.
 
----
+## Selected systems
 
-## About
+- **Agentic multimodal AI agent** for creative teams: builds context across files, applications and web browsing, reasons over hundreds of images and videos, searches and organizes media. Served by a dedicated H100 GPU inference instance (45 endpoints, self-hosted open-weight models).
+- **Multi-operator FTTH interoperability BSS platform**, in production at Maroc Telecom, Orange, INWI and Unifiber: fiber order orchestration from eligibility to after-sales, configurable state machine, REST / SOAP callbacks, multi-tenant.
+- **OSS network inventory repository**: physical, topological and asset inventory of telecom networks, bi-temporal model enforced by PostgreSQL / PostGIS, pure-SQL tracing, vector-tile mapping, multi-format GIS import.
+- **Nationwide fiber rollout management system** for Free (Iliad): rollouts by area, field interventions, reporting, PostGIS spatial database, QGIS automation, technicians' mobile app.
+- **International bilingual (EN / AR) certification platform**: memberships, exam and training partners, multi-time-zone bookings, custom exam proctoring with integrity review, certificates, learning system, payments. Self-hosted Supabase on AWS.
 
-Senior engineer with 14+ years of experience, focused on **native mobile** —
-iOS (Swift / SwiftUI, from the Objective-C era) and Android (Kotlin) — backed by
-a solid full-stack and cloud foundation. I care about clean architecture
-(MVVM, Clean, DDD / hexagonal), testing, security, and shipping polished apps
-end to end.
+Most of this work lives in client repositories. The public repositories below are samples and side projects.
 
----
+## Public repositories
 
-## Core Expertise
-
-| Area | Stack |
-|------|-------|
-| **iOS** | Swift 6 · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Swift Concurrency |
-| **Android &amp; Cross-platform** | Kotlin · Java · Jetpack Compose · Coroutines · Flutter / Dart |
-| **Architecture &amp; Quality** | MVVM · Clean · TCA · DDD · Hexagonal · XCTest · Swift Testing · Fastlane · CI/CD |
-| **Application Security** | Face ID / Touch ID · Keychain · SSL / certificate pinning · OAuth 2.0 / OIDC · encryption |
-| **Cloud, Backend &amp; DevOps** | AWS · Azure · GCP · Docker · CI/CD · Node.js · TypeScript · Python · REST API · PostgreSQL |
-| **Networking &amp; Telecom** | Fiber / FTTH networks · REST / SOAP integration · WebSocket · operator systems |
-
----
-
-## Selected Work
-
-### Freebox Files — Official Free iOS App ([App Store](https://apps.apple.com/fr/app/freebox-files/id1541156110)) · ⭐ 4.6 / 5 200+ ratings
-Consumer iOS app for Free (French national ISP): browse files on the Freebox
-drive, stream photos/videos/music, auto-backup, downloads (URL / torrent /
-magnet), and secure sharing. Built at RC2K (Free Telecom consulting).
-**Stack:** Swift · Objective-C · UIKit · AVFoundation · URLSession · networking
-
-### FieldFlows — FTTH field operations app *(internal — enterprise distribution, no public link)*
-**Flutter** app (iOS + Android) for fiber field operations: work orders, tickets,
-taskflow, intervention debriefs, equipment scanning, mapping &amp; geolocation.
-**Offline-first** (local Isar database + sync queue replayed on reconnect), photo
-capture, secure storage, and observability (Sentry, Dio/Riverpod logging).
-**Stack:** Flutter · Dart · Riverpod · Isar · Dio · go_router · Sentry
-
-### Delivery Platform — Flutter customer &amp; courier apps ([repo](https://github.com/rahmounirabii/delivery-platform))
-Glovo-style delivery platform: two **Flutter** apps (customer + courier) backed by
-a set of services and an API — state management, real-time order flow, multi-app codebase.
-**Stack:** Flutter · Dart · backend &amp; services
-
-### Azure Chat — Social audio rooms &amp; mini-games ([repo](https://github.com/rahmounirabii/azure-chat))
-**Flutter** app (iOS + Android) for real-time social audio rooms with mini-games:
-reactive UI, state management, and real-time audio SDK integration.
-**Stack:** Flutter · Dart · real-time audio SDK · Android · iOS
-
-### Ksyndic — Published iOS App ([App Store](https://apps.apple.com/us/app/ksyndic/id6758148613))
-Condominium-management app shipped to the App Store: real-time complaints,
-documents, announcements, visitor access, and community voting.
-**Stack:** iOS · App Store · Morocco
-
-### SecureVault — SwiftUI Finance Demo ([repo](https://github.com/rahmounirabii/SecureVault))
-A modern iOS sample showing how I build: **SwiftUI + Observation**, **MVVM** with
-protocol-based dependency injection, **Face ID + Keychain**, `async/await`, and
-**Swift Testing** — no legacy boilerplate.
-**Stack:** Swift 6 · SwiftUI · MVVM · Keychain · Swift Testing
-
----
-
-## Tech Stack
-
-**Mobile**
-Swift · SwiftUI · UIKit · Objective-C · RxSwift · Combine · Kotlin · Jetpack Compose · Flutter
-
-**Architecture &amp; Testing**
-MVVM · Clean · TCA · DDD · Hexagonal · CQRS · XCTest · Swift Testing · Fastlane · GitHub Actions
-
-**Cloud &amp; DevOps**
-AWS · Azure · GCP · Docker · CI/CD · Node.js · TypeScript · Python · REST API · OAuth 2.0 · PostgreSQL
-
-**Networking &amp; Telecom**
-Fiber / FTTH networks · REST / SOAP integration · WebSocket · operator systems
-
----
+| Repository | What it is | Stack |
+|---|---|---|
+| [SecureVault](https://github.com/rahmounirabii/SecureVault) | iOS finance demo: SwiftUI with the Observation framework, MVVM with protocol-based dependency injection, Face ID and Keychain, Swift Testing | Swift 6 · SwiftUI |
+| [mobile-security-guide](https://github.com/rahmounirabii/mobile-security-guide) | Code-first reference for secure native mobile apps, mapped to OWASP MASVS 2.1 controls, with Swift and Kotlin examples and tests | Swift · Kotlin |
+| [delivery-platform](https://github.com/rahmounirabii/delivery-platform) | Delivery platform: Kotlin / Spring Boot modular back end, Flutter customer and courier apps | Kotlin · Spring Boot · Flutter |
 
 ## Contact
 
-- **Email:** rahmounirabii.me@gmail.com
-- **GitHub:** [github.com/rahmounirabii](https://github.com/rahmounirabii)
-- **Location:** Casablanca, Morocco (remote-friendly)
+- Email: [rahmounirabii.me@gmail.com](mailto:rahmounirabii.me@gmail.com)
+- LinkedIn: [linkedin.com/in/rahmounirabii](https://www.linkedin.com/in/rahmounirabii)
+- Casablanca, Morocco. Available for freelance or full-time roles, remote or on site.
