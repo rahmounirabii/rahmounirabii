@@ -20,16 +20,6 @@
 - **Nationwide fiber rollout management system** for Free (Iliad): rollouts by area, field interventions, reporting, PostGIS spatial database, QGIS automation, technicians' mobile app.
 - **International bilingual (EN / AR) certification platform**: memberships, exam and training partners, multi-time-zone bookings, custom exam proctoring with integrity review, certificates, learning system, payments. Self-hosted Supabase on AWS.
 
-Most of this work lives in client repositories. The public repositories below are samples and side projects.
-
-## Public repositories
-
-| Repository | What it is | Stack |
-|---|---|---|
-| [SecureVault](https://github.com/rahmounirabii/SecureVault) | iOS finance demo: SwiftUI with the Observation framework, MVVM with protocol-based dependency injection, Face ID and Keychain, Swift Testing | Swift 6 · SwiftUI |
-| [mobile-security-guide](https://github.com/rahmounirabii/mobile-security-guide) | Code-first reference for secure native mobile apps, mapped to OWASP MASVS 2.1 controls, with Swift and Kotlin examples and tests | Swift · Kotlin |
-| [delivery-platform](https://github.com/rahmounirabii/delivery-platform) | Delivery platform: Kotlin / Spring Boot modular back end, Flutter customer and courier apps | Kotlin · Spring Boot · Flutter |
-
 ## Contact
 
 - Email: [rahmounirabii.me@gmail.com](mailto:rahmounirabii.me@gmail.com)
